@@ -20,20 +20,21 @@
 				<form action="save.do" method="post">
 					<div class="form-group">
 						<label class="control-label">Nom Film :</label> <input type="text"
-							name="nom" class="form-control" />
+							name="nomFilm" class="form-control" />
 					</div>
 					<div class="form-group">
 						<label class="control-label">Genre Film :</label> <input
-							type="text" name="nom" class="form-control" />
+							type="text" name="genre" class="form-control" />
 					</div>
 					<div class="form-group">
-						<label class="control-label">Prix_ticket :</label> <input
-							type="text" name="prix" class="form-control" />
+						<label class="control-label">Prix Ticket :</label> <input
+							type="text" name="prixTicket" class="form-control" />
 					</div>
 					<div>
 						<button type="submit" class="btn btn-primary">Ajouter</button>
 					</div>
 				</form>
+
 
 			</div>
 		</div>
